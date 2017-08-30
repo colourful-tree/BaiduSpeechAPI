@@ -43,7 +43,7 @@ for each_origin_file in (all_origin_files):
                 "format":"wav",
                 "rate":8000,
                 "channel":1,
-                "token":"24.3fd0f43802e3b18c73c3a067582b13f9.2592000.1506578811.282335-10067482",
+                "token":"xxx",
                 "cuid":"BAIDU_SPEECH_DIAOYAN",
                 "len":filesize,
                 "speech":music
